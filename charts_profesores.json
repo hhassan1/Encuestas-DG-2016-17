@@ -1,0 +1,534 @@
+[
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      0, 
+      1, 
+      3, 
+      22
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Su formación académica tiene relación con la/s asignatura/s que imparte"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      6, 
+      4, 
+      5, 
+      7, 
+      4
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Se tiene en cuenta la formación del profesor en la asignación de docencia"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      1, 
+      15, 
+      9, 
+      1
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Distribución de la carga docente entre clases teóricas y prácticas  "
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      2, 
+      3, 
+      16, 
+      5
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Metodologías docentes"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      2, 
+      10, 
+      9, 
+      5
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Mecanismos de coordinación de esta Titulación "
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      1, 
+      2, 
+      9, 
+      6, 
+      8
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Apoyo del Centro en las tareas de gestión de la actividad docente"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      4, 
+      8, 
+      8, 
+      3, 
+      3
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Aprovechamiento de las tutorías por parte de los/as alumnos/as"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      1, 
+      1, 
+      7, 
+      12, 
+      5
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Grado de implicación del alumnado"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      2, 
+      0, 
+      3, 
+      14, 
+      7
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Utilidad del Campus Virtual para la actividad docente"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      4, 
+      9, 
+      9, 
+      4
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Organización de los horarios docentes de las diferentes asignaturas"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      1, 
+      1, 
+      15, 
+      9
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Satisfacción con la actividad docente desarrollada"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      0, 
+      3, 
+      11, 
+      12
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Compleción del temario a final de curso"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      1, 
+      5, 
+      10, 
+      8, 
+      2
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Organización entre facultades"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      1, 
+      8, 
+      3, 
+      6, 
+      3, 
+      5
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Coordinación con los grupos de grado"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      2, 
+      2, 
+      11, 
+      7, 
+      4
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Valoración del horario"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      2, 
+      10, 
+      9, 
+      5
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Preparación de los alumnos frente a la asignatura"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      1, 
+      0, 
+      1, 
+      4, 
+      11, 
+      9
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Nivel de interés de los alumnos respecto del alumnado de Grado"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      0, 
+      1, 
+      9, 
+      16
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Nivel académico de los alumnos respecto del alumnado de Grado"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      4, 
+      1, 
+      11, 
+      10
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Nivel de asistencia a clase del alumnado"
+  }
+]

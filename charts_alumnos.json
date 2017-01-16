@@ -1,0 +1,842 @@
+[
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      6, 
+      15, 
+      28, 
+      26
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Nivel de cumplimiento del horario de las clases diarias"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      22, 
+      1, 
+      2, 
+      9, 
+      28, 
+      13
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Nivel de cumplimiento del horario de las tutorías"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      1, 
+      0, 
+      1, 
+      8, 
+      53, 
+      12
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Nivel de cumplimiento de los programas de las asignaturas"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      3, 
+      5, 
+      9, 
+      20, 
+      31, 
+      7
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Nivel de cumplimiento de los plazos de notificación de calificaciones"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      2, 
+      3, 
+      9, 
+      37, 
+      24
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Grado de utilidad del Campus Virtual"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      24, 
+      0, 
+      2, 
+      17, 
+      22, 
+      10
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Grado de utilidad de las tutorías presenciales"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      1, 
+      4, 
+      27, 
+      37, 
+      6
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Los contenidos de las asignaturas están organizados"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      8, 
+      9, 
+      28, 
+      24, 
+      6
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Nivel de solapamiento de contenidos entre asignaturas"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      1, 
+      1, 
+      1, 
+      27, 
+      35, 
+      10
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Formación recibida en relación con las competencias vinculadas a la Titulación"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      2, 
+      10, 
+      30, 
+      31, 
+      2
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Metodología docente del profesorado"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      3, 
+      4, 
+      24, 
+      23, 
+      17, 
+      4
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Información disponible en la página web del centro"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      2, 
+      10, 
+      17, 
+      23, 
+      19, 
+      4
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Distribución de tareas a lo largo del curso"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      4, 
+      18, 
+      37, 
+      16
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Instalaciones y recursos de apoyo a la docencia (laboratorios, talleres, aulas de informática, proyectores)"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      21, 
+      5, 
+      11, 
+      21, 
+      14, 
+      3
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Utilidad de los contenidos en la Guia Docente"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      1, 
+      4, 
+      9, 
+      32, 
+      27, 
+      2
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Criterios de evaluación de las asignaturas"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      1, 
+      4, 
+      25, 
+      37, 
+      8
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Satisfacción global con la titulación"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      1, 
+      14, 
+      24, 
+      26, 
+      10
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Coordinación entre las clases teóricas y las clases prácticas"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      46, 
+      11, 
+      8, 
+      8, 
+      1, 
+      1
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Facilidad de convalidación de estudios de Erasmus"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      4, 
+      15, 
+      22, 
+      18, 
+      11, 
+      5
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Correspondencia entre el esfuerzo requerido y los creditos obtenidos en las asignaturas"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      13, 
+      23, 
+      28, 
+      7, 
+      4
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Organización entre las facultades"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      9, 
+      16, 
+      14, 
+      28, 
+      7, 
+      1
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Coordinación con los grupos de grado"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      22, 
+      22, 
+      18, 
+      7, 
+      5, 
+      1
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Satisfacción con la cantidad de asignaturas optativas matriculables"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      28, 
+      7, 
+      11, 
+      14, 
+      13, 
+      2
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Satisfacción con las asignaturas optativas ofertadas"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      2, 
+      8, 
+      11, 
+      16, 
+      21, 
+      17
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Satisfacción con el horario de las clases"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      18, 
+      11, 
+      7, 
+      18, 
+      16, 
+      5
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Satisfacción con el horario de las tutorías"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      3, 
+      5, 
+      16, 
+      27, 
+      19, 
+      5
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Satisfacción con la planificación de los examenes"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      7, 
+      5, 
+      15, 
+      29, 
+      14, 
+      5
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Satisfacción con las asignaturas basadas en trabajos en grupo"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      1, 
+      0, 
+      14, 
+      15, 
+      33, 
+      12
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Satisfacción con el grado en Matemáticas"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      0, 
+      0, 
+      11, 
+      23, 
+      31, 
+      10
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Satisfacción con el grado en Ingeniería Informática"
+  }, 
+  {
+    "borderColor": [
+      "rgba(0, 0, 0, 1)", 
+      "rgba(255, 0, 0, 1)", 
+      "rgba(191, 64, 0, 1)", 
+      "rgba(127, 127, 0, 1)", 
+      "rgba(64, 191, 0, 1)", 
+      "rgba(0, 255, 0, 1)"
+    ], 
+    "data": [
+      47, 
+      1, 
+      3, 
+      10, 
+      11, 
+      3
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": [
+      "rgba(0, 0, 0, 0.2)", 
+      "rgba(255, 0, 0, 0.2)", 
+      "rgba(191, 64, 0, 0.2)", 
+      "rgba(127, 127, 0, 0.2)", 
+      "rgba(64, 191, 0, 0.2)", 
+      "rgba(0, 255, 0, 0.2)"
+    ], 
+    "title": "Satisfacción con el sistema de Trabajo de Fin de Grado"
+  }
+]
