@@ -1,0 +1,64 @@
+[
+  {
+    "borderColor": "rgba(255, 140, 0, 1)", 
+    "labels": [
+      "Su formación académica tiene relación con la/s asignatura/s que imparte", 
+      "Se tiene en cuenta la formación del profesor en la asignación de docencia", 
+      "Distribución de la carga docente entre clases teóricas y prácticas  ", 
+      "Metodologías docentes", 
+      "Mecanismos de coordinación de esta Titulación ", 
+      "Apoyo del Centro en las tareas de gestión de la actividad docente", 
+      "Aprovechamiento de las tutorías por parte de los/as alumnos/as", 
+      "Grado de implicación del alumnado", 
+      "Utilidad del Campus Virtual para la actividad docente", 
+      "Organización de los horarios docentes de las diferentes asignaturas", 
+      "Satisfacción con la actividad docente desarrollada"
+    ], 
+    "data": [
+      4.8533333330000001, 
+      4.1866666669999999, 
+      4.8533333330000001, 
+      4.4800000000000004, 
+      4.5555555559999998, 
+      4.857777778, 
+      3.591111111, 
+      3.9333333330000002, 
+      4.1866666669999999, 
+      4.1866666669999999, 
+      4.5555555559999998
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": "rgba(255, 140, 0, 0.2)"
+  }, 
+  {
+    "borderColor": "rgba(0, 140, 255, 1)", 
+    "labels": [
+      "Su formación académica tiene relación con la/s asignatura/s que imparte", 
+      "Se tiene en cuenta la formación del profesor en la asignación de docencia", 
+      "Distribución de la carga docente entre clases teóricas y prácticas  ", 
+      "Metodologías docentes", 
+      "Mecanismos de coordinación de esta Titulación ", 
+      "Apoyo del Centro en las tareas de gestión de la actividad docente", 
+      "Aprovechamiento de las tutorías por parte de los/as alumnos/as", 
+      "Grado de implicación del alumnado", 
+      "Utilidad del Campus Virtual para la actividad docente", 
+      "Organización de los horarios docentes de las diferentes asignaturas", 
+      "Satisfacción con la actividad docente desarrollada"
+    ], 
+    "data": [
+      4.8076923076923075, 
+      2.9615384615384617, 
+      3.3846153846153846, 
+      3.9230769230769229, 
+      3.6538461538461537, 
+      3.6923076923076925, 
+      2.7307692307692308, 
+      3.7307692307692308, 
+      3.9230769230769229, 
+      3.5, 
+      4.2307692307692308
+    ], 
+    "borderWidth": 1, 
+    "backgroundColor": "rgba(0, 140, 255, 0.2)"
+  }
+]

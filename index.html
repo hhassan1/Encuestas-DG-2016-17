@@ -5,21 +5,14 @@
   <title>Encuestas DG 16-17</title>
   <meta charset="utf-8">
   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
-  <link rel="stylesheet" href="https://bootflat.github.io/bootflat/css/bootflat.css">
+  <link rel="stylesheet" href="http://cdn.bootcss.com/bootflat/2.0.4/css/bootflat.min.css">
   <script
         src="https://code.jquery.com/jquery-3.1.1.min.js"
         integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
         crossorigin="anonymous"></script>
   <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
   <!-- Bootflat's JS files.-->
-  <script src="https://bootflat.github.io/bootflat/js/icheck.min.js"></script>
-  <script src="https://bootflat.github.io/bootflat/js/jquery.fs.selecter.min.js"></script>
-  <script src="https://bootflat.github.io/bootflat/js/jquery.fs.stepper.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.bundle.js"
-  crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/numjs/0.12.1/numjs.js"
-  crossorigin="anonymous"></script>
-  <script src="htthttps://cdnjs.cloudflare.com/ajax/libs/bootflat/2.0.4/css/bootflat.css"
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"
   crossorigin="anonymous"></script>
   <script>
       $(document).ready(function() {
@@ -90,6 +83,66 @@
               }
           }
       });
+      $.ajax({
+          async: true,
+          url:        "./charts_comparacion_alumnos.json",
+          dataType:   "json", // <== JSON-P request
+          method: "GET",
+          success:    function(datasets) {
+            chart = document.getElementById("comparacion_alumnos_chart");
+            var data = {
+                labels: datasets[0].labels,
+                datasets: datasets
+            };
+            var c = new Chart(chart, {
+                type: 'bar',
+                data: data,
+                options: {
+                     legend: {
+                        display: true
+                     },
+                     scales: {
+                        yAxes: [{
+                            display: true,
+                            ticks: {
+                                beginAtZero: true   // minimum value will be 0.
+                            }
+                        }]
+                    }
+                 }
+            });
+          }
+      });
+      $.ajax({
+          async: true,
+          url:        "./charts_comparacion_profesores.json",
+          dataType:   "json", // <== JSON-P request
+          method: "GET",
+          success:    function(datasets) {
+            chart = document.getElementById("comparacion_profesores_chart");
+            var data = {
+                labels: datasets[0].labels,
+                datasets: datasets
+            };
+            var c = new Chart(chart, {
+                type: 'bar',
+                data: data,
+                options: {
+                     legend: {
+                        display: true
+                     },
+                     scales: {
+                        yAxes: [{
+                            display: true,
+                            ticks: {
+                                beginAtZero: true   // minimum value will be 0.
+                            }
+                        }]
+                    }
+                 }
+            });
+          }
+      });
   });
   </script>
   <style>
@@ -150,7 +203,7 @@
             <div id="myTabContent" class="tab-content">
               <div class="tab-pane fade active in" id="introduccion">
                 <div class="page-header">
-                    <h2>Proposito</h2>
+                    <h2>Propósito</h2>
                 </div>
                 <p>Las encuestas realizadas por las facultades de Informática y Matemáticas, cada una por su parte, no nos han parecido suficientes para obtener información sobre la opinión y preocupaciones de los alumnos del Doble Grado en Ingeniería Informática y Matemáticas. Debido a esto, nos hemos planteado realizar una encuesta más específica a los alumnos que cursan o que han cursado y finalizado el Doble Grado. </p>
                 <p>El fin de estas encuestas, una para alumnos y otra para profesores, es el de dar una visión más realista de la situación en la que se encuentra el Doble Grado, ayudando al departamento de garantía de calidad de la facultad de Informática, la cual se encarga de administrar los expedientes de los alumnos del Doble Grado.</p>
@@ -429,6 +482,27 @@
                 <h3>Preguntas del Doble Grado</h3>
                 <p>Resaltan en este apartado algunas “quejas” de los alumnos, en preguntas donde las respuestas han sido generalmente negativas. Se puede observar el descontento con la asignación de créditos a las asignaturas, pues algunas de ellas son, por ejemplo, de 6 créditos (el mínimo), y requieren, para la mayoría de la clase, una cantidad de trabajo muy superior a lo que correspondería usando esta métrica. También se considera insuficiente el nivel de organización entre ambas facultades, y la coordinación con los otros grupos, siendo esto último aún más destacado en la facultad de Matemáticas, pues en Informática al menos los exámenes finales son iguales para todos los grupos. Y lo que más desagrado genera en este bloque es sin duda la oferta de asignaturas optativas de que disponemos, con la posibilidad de elegir únicamente dos, en el último curso.</p>
                 <p>Aún con estas respuestas negativas, el grado de satisfacción con cada una de las titulaciones es alto, en general.</p>
+                <div class="page-header">
+                    <h2>Profesores</h2>
+                </div>
+                <h3>Aspectos generales</h3>
+                <p>Si bien parece que las asignaturas impartidas por un profesor vienen fuertemente marcadas por la formación académica del mismo, parece que cuando se asigna docencia este no es un factor tan importante, con una respuesta media de 3.</p>
+                <p>Por otro lado, se aprecia que en general la carga docente entre clases teóricas y prácticas es equitativa, con una ligera inclinación por las teóricas. Hay una alta satisfacción con las metodologías docentes, hasta el punto de que los alumnos apenas asisten a tutorías.</p>
+                <p>Podemos destacar una alta satisfacción con la coordinación interna del Doble Grado, al igual que un gran apoyo en tareas de gestión por parte de las Facultades.</p>
+                <h3>Preguntas del Doble Grado</h3>
+                <p>En lo que respecta al Doble Grado, se aprecia una alta implicación del alumnado, con una alta asistencia a clase, una buena preparación de las asignaturas, un mayor interés que los alumnos de grado y también un mejor nivel académico que ellos.
+                <p>Consideran que el campus es muy útil en la realización de sus tareas docentes, y acaban los cursos con una alta satisfacción personal con su labor. Seguramente influya en ello la alta compleción del temario a impartir cada curso.</p>
+                <p>En cuanto a la organización de la carrera, opinan que las dos facultades están bien coordinadas, aunque la coordinación con los grupos de grado es difícil de clasificar: hay muchas respuestas negativas, medias y positivas.</p>
+                <p>Por último, los horarios están valorados de manera media, con una ligera inclinación positiva de los mismos.</p>
+                <div class="page-header">
+                    <h2>Comparación entre alumnos de Doble Grado y GII</h2>
+                </div>
+                <canvas id="comparacion_alumnos_chart" ></canvas>
+                <div class="page-header">
+                    <h2>Comparación entre profesores de Doble Grado y GII</h2>
+                </div>
+                <canvas id="comparacion_profesores_chart" ></canvas>
+                
               </div>
             </div>
           </div>
