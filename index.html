@@ -6,6 +6,7 @@
   <meta charset="utf-8">
   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="http://cdn.bootcss.com/bootflat/2.0.4/css/bootflat.min.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootflat/2.0.4/js/jquery.fs.selecter.min.js"></script>
   <script
         src="https://code.jquery.com/jquery-3.1.1.min.js"
         integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
@@ -85,11 +86,13 @@
       });
       $.ajax({
           async: true,
-          url:        "./charts_comparacion_alumnos.json",
+          url:        "./chart_comparacion_alumnos.json",
           dataType:   "json", // <== JSON-P request
           method: "GET",
           success:    function(datasets) {
             chart = document.getElementById("comparacion_alumnos_chart");
+            datasets[0].label = 'GII';
+            datasets[1].label = 'DG';
             var data = {
                 labels: datasets[0].labels,
                 datasets: datasets
@@ -101,12 +104,19 @@
                      legend: {
                         display: true
                      },
+                     title: {
+                      display: true,
+                      text: 'Alumnos'
+                     },
                      scales: {
                         yAxes: [{
                             display: true,
                             ticks: {
                                 beginAtZero: true   // minimum value will be 0.
                             }
+                        }],
+                        xAxes: [{
+                            display: false
                         }]
                     }
                  }
@@ -115,11 +125,13 @@
       });
       $.ajax({
           async: true,
-          url:        "./charts_comparacion_profesores.json",
+          url:        "./chart_comparacion_profesores.json",
           dataType:   "json", // <== JSON-P request
           method: "GET",
           success:    function(datasets) {
             chart = document.getElementById("comparacion_profesores_chart");
+            datasets[0].label = 'GII';
+            datasets[1].label = 'DG';
             var data = {
                 labels: datasets[0].labels,
                 datasets: datasets
@@ -131,12 +143,19 @@
                      legend: {
                         display: true
                      },
+                     title: {
+                      display: true,
+                      text: 'Profesores'
+                     },
                      scales: {
                         yAxes: [{
                             display: true,
                             ticks: {
                                 beginAtZero: true   // minimum value will be 0.
                             }
+                        }],
+                        xAxes: [{
+                            display: false
                         }]
                     }
                  }
@@ -495,14 +514,18 @@
                 <p>En cuanto a la organización de la carrera, opinan que las dos facultades están bien coordinadas, aunque la coordinación con los grupos de grado es difícil de clasificar: hay muchas respuestas negativas, medias y positivas.</p>
                 <p>Por último, los horarios están valorados de manera media, con una ligera inclinación positiva de los mismos.</p>
                 <div class="page-header">
-                    <h2>Comparación entre alumnos de Doble Grado y GII</h2>
+                    <h2>Comparación de resultados de Doble Grado y GII</h2>
                 </div>
-                <canvas id="comparacion_alumnos_chart" ></canvas>
-                <div class="page-header">
-                    <h2>Comparación entre profesores de Doble Grado y GII</h2>
+                <p>Mover el ratón sobre las barras para ver el nombre de la pregunta </p>
+                <div class="row">
+                  <div class="  col-sm-6 col-xs-12"> 
+                    <canvas id="comparacion_alumnos_chart" ></canvas>
+                  </div>
+                  <div class="  col-sm-6 col-xs-12"> 
+                    <canvas id="comparacion_profesores_chart" ></canvas>
+                  </div>
                 </div>
-                <canvas id="comparacion_profesores_chart" ></canvas>
-                
+                <p>En general, podemos ver que hay una menor satisfacción en el Doble Grado, tanto para alumnos como para profesores. Podemos hipotetizar como causa de esto una mayor carga o responsabilidad para ambos grupos, pero creemos que este dato es una información importante para un futuro estudio más en profundidad.</p>
               </div>
             </div>
           </div>
